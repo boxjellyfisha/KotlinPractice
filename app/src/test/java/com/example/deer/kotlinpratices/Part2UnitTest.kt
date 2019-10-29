@@ -3,7 +3,6 @@ package com.example.deer.kotlinpratices
 import junit.framework.Assert.assertFalse
 import junit.framework.Assert.assertTrue
 import org.junit.Test
-import java.util.*
 
 class Part2UnitTest {
 
